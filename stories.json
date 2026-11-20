@@ -1,0 +1,42 @@
+{"k":"head","count":"45 STORIES · SEVEN REGIONS · ALL FIRST REPORTED IN THE 19 NOVEMBER NEWS CYCLE","date":"THURSDAY, 19 NOVEMBER 2026","verdict":"Diplomacy lost the race: the war widened before the leaders met.","footer":"Every story first reported in the 19 November 2026 news cycle. Times UTC — event time where on record; * = first-report time (event time not on record). CLAIM = one side's account."}
+{"k":"pin","n":1,"time":"13:25*","day":"WED 18 NOV","act":"AFTERNOON","label":"IRAN HITS KUWAIT","sub":"WED 18 NOV · AFTERNOON","cons":"War widens to a second Gulf host."}
+{"k":"pin","n":2,"time":"23:36*","day":"WED 18 NOV","act":"EVENING","label":"KERCH HIT AGAIN","sub":"WED 18 NOV · EVENING","cons":"The 19 km Crimea link is shut again."}
+{"k":"pin","n":3,"time":"06:30","day":"THU 19 NOV","act":"MORNING","label":"TRILATERAL MEETS","sub":"THU 19 NOV · MORNING · BILATERAL FIRST, 04:45","cons":"No nuclear limits remain."}
+{"k":"hero","lay":"lead","badge":2,"act":"EVENING","img":"hero_kerch.png","tag":"EUROPE · UKRAINE WAR","time":"23:36* UTC · REUTERS","head":"Kerch bridge struck again — third attack this week","deck":"Traffic halted after a fresh attack on the Crimea link, days after a span was brought down.","changes":"The 19 km Crimea link is shut again before Putin meets Trump and Xi.","band":1}
+{"k":"hero","lay":"right","row":246,"badge":1,"act":"AFTERNOON","img":"hero_gulf.png","tag":"MIDDLE EAST · GULF WAR","time":"13:25* UTC · TBS NEWS","head":"Iran fires drones at a US base in Kuwait","deck":"Tehran's first attack on Kuwait since September, after US jets hit a site on Qeshm Island.","changes":"The war widens to a second Gulf host.","band":0}
+{"k":"hero","lay":"right","row":368,"badge":3,"act":"MORNING","img":"hero_shenzhen.png","tag":"ASIA · SUMMIT","time":"06:30 UTC · WHITE HOUSE / TASS","head":"Trump, Xi and Putin meet — the first trilateral ever","deck":"The three leaders sit down at Kylin Villa, Shenzhen, with nuclear limits and Iran on the table.","changes":"No binding nuclear limits remain — New START expired in February.","band":0}
+{"k":"hero","lay":"strip","col":0,"time":"14:30 UTC · CNN · WALL STREET · TECH","head":"Anthropic's $83 IPO is the biggest debut on record","changes":"The AI boom's largest listing tops SpaceX's $75bn debut."}
+{"k":"hero","lay":"strip","col":1,"time":"08:00 UTC · SECURITYSIGNAL · EUROPE · UKRAINE WAR","head":"Russian strikes hit central Odesa; four killed, 13 hurt","changes":"Russia hits Odesa the morning after the Kerch span fell."}
+{"k":"hero","lay":"strip","col":2,"time":"15:56* UTC · NPR · AMERICAS · POLITICS","head":"Democrats nominate Jeffries 251–11","changes":"Full House votes 3 Jan; Clark is first woman majority leader."}
+{"k":"mid","n":7,"tag":"BERLIN","time":"09:59 UTC · H.UA","body":"Coalition of the Willing meets in Berlin on Ukraine aid."}
+{"k":"mid","n":8,"tag":"BRUSSELS","time":"14:18* UTC · REUTERS","body":"EU proposes a 45bn euro loan for Ukraine in 2027."}
+{"k":"mid","n":9,"tag":"GAZA","time":"19:09* UTC · AL JAZEERA","body":"Israeli tanks cross the Yellow Line in central Gaza."}
+{"k":"mid","n":10,"tag":"CHIPS","time":"07:24* UTC · AFP","body":"Nvidia stops shipping Hopper AI chips to China."}
+{"k":"mid","n":11,"tag":"FED","time":"19:00 UTC · FED","body":"Fed minutes point to more rate rises; Waller backs a half-point hike."}
+{"k":"mid","n":12,"tag":"INDIA","time":"21:00* UTC · IMD","body":"Cyclone Akvan strengthens; Odisha lines up 200,000 to evacuate."}
+{"k":"mid","n":13,"tag":"KINSHASA","time":"10:21* UTC · DRC HEALTH","body":"DR Congo Ebola passes 11,500 cases and 5,600 deaths."}
+{"k":"mid","n":14,"tag":"OIL","time":"21:34* UTC · REUTERS","body":"Brent falls below $92 as US crude stocks rise 3.4m barrels."}
+{"k":"num","v":"$81.3bn","label":"Anthropic IPO","time":"14:30","first":0,"src":"CNN"}
+{"k":"num","v":"11,504","label":"Ebola cases","time":"10:21*","first":1,"src":"WHO"}
+{"k":"num","v":"200,000","label":"Akvan evacuations","time":"21:00*","first":1,"src":"IMD"}
+{"k":"num","v":"99","label":"GTA VI score","time":"11:00","first":0,"src":"REUTERS"}
+{"k":"num","v":"$3,735","label":"Gold 14-mo low","time":"21:34*","first":1,"src":"REUTERS"}
+{"k":"num","v":"1 light-day","label":"Voyager 1","time":"10:16","first":0,"src":"NASA"}
+{"k":"spot","place":"KERCH","lat":45.3,"lon":34.0,"act":"EVENING","time":"23:36","first":1,"dx":10,"dy":-28}
+{"k":"spot","place":"ODESA","lat":46.5,"lon":30.7,"act":"MORNING","time":"08:00","first":0,"dx":-78,"dy":-28}
+{"k":"spot","place":"KUWAIT","lat":29.3,"lon":47.5,"act":"AFTERNOON","time":"13:25","first":1,"dx":10,"dy":-28}
+{"k":"spot","place":"QESHM","lat":26.7,"lon":55.9,"act":"AFTERNOON","time":"13:25","first":1,"dx":8,"dy":12}
+{"k":"spot","place":"WASH.","lat":38.9,"lon":-77.0,"act":"AFTERNOON","time":"15:56","first":1,"dx":0,"dy":-28}
+{"k":"spot","place":"SHENZHEN","lat":22.5,"lon":114.1,"act":"MORNING","time":"06:30","first":0,"dx":8,"dy":0}
+{"k":"spot","place":"BERLIN","lat":52.5,"lon":13.4,"act":"MORNING","time":"09:59","first":0,"dx":8,"dy":-28}
+{"k":"spot","place":"BRUSSELS","lat":50.8,"lon":4.4,"act":"AFTERNOON","time":"14:18","first":1,"dx":-64,"dy":8}
+{"k":"spot","place":"KINSHASA","lat":-4.3,"lon":15.3,"act":"MORNING","time":"10:21","first":1,"dx":8,"dy":-28}
+{"k":"spot","place":"DELHI","lat":28.6,"lon":77.2,"act":"EVENING","time":"21:00","first":1,"dx":8,"dy":-28}
+{"k":"spot","place":"GAZA","lat":31.5,"lon":34.5,"act":"EVENING","time":"19:09","first":1,"dx":-52,"dy":8}
+{"k":"spot","place":"HAITI","lat":18.5,"lon":-72.3,"act":"OVERNIGHT","time":"00:47","first":1,"dx":8,"dy":-28}
+{"k":"chain","title":"THE BRIDGE WAR IN THREE BLOWS","l1":"TUE 17 NOV 02:38 SPAN FALLS · 2 KILLED","l2":"WED 18 NOV 08:00 ODESA · 4 KILLED → WED 18 NOV 23:36* HIT AGAIN"}
+{"k":"idx","act":"AFTERNOON","rows":["13:25* — HORMUZ: US jets hit an Iranian missile site...","19 NOV — MADRID: Spain pledges 615m euros in aid...","19 NOV — PARIS: Russia accuses France over troops...","19 NOV — SPORT: Brazil 7–0 Singapore in friendly...","19 NOV — SHOPEE CUP: HCM City Police 1–0 Buriram..."]}
+{"k":"idx","act":"EVENING","rows":["19 NOV — ANTALYA: COP31 polluter-pays calls grow...","19:26* — LONDON: Modi meets the Prince and Princess...","20:33* — FAITH: Pew, Islam largest faith by 2035...","20:00* — SCIENCE: the missing billion years found...","21:34* — MARKETS: stocks fall a fifth straight day...","21:56* — TAKE-TWO: shares rise 6.5% on GTA boost...","19 NOV — COP31: activists confront Roth in Antalya...","21:34* — BITCOIN: near $62,300 as sell-off eases...","19 NOV — CASPER CUP: Vietnam finish runners-up...","21:34* — COPPER: down 5.45% to $5.66 a pound..."]}
+{"k":"idx","act":"OVERNIGHT","rows":["00:47* — HAITI: El Salvador demolishes gang home...","00:00* — YEMEN: Houthis edge toward Aden...","00:00* — GAZA AID: four nations urge Israel...","19 NOV — OTTAWA: Canada adjusts its China ties...","19 NOV — FRANCE: Melenchon could win, polls say...","19 NOV — RIYADH: danger passed, three cities safe...","19 NOV — LIBYA: cocaine and pills seized...","19 NOV — SENATE: warning over AI cyber threats...","00:00* — POPE: return to Chiclayo planned..."]}
+{"k":"idx","act":"MORNING","rows":["10:16 — VOYAGER: Voyager 1, one light-day out...","19 NOV — LEAVE: bookings jump 32% on GTA launch...","19 NOV — XBOX: GTA via Cloud Gaming confirmed...","19 NOV — MOSSAD: lobbied US on Iran strikes...","19 NOV — VANCE: no forever war, Vance says...","19 NOV — BAPCO: refinery back on its feet...","07:24* — VERA RUBIN: fastest ramp ever, Nvidia..."]}
+{"k":"datecheck","left":"DATE CHECK — LEFT OUT — broke before this cycle: Kerch collapse (17 Nov) · Nvidia results (17 Nov) · Huang resigns (12 Nov) · FAA stop (13 Nov) · UK inflation (18 Nov).","notyet":"NOT YET: the Shenzhen outcome · the Anthropic first trade · Akvan's landfall (Fri)."}
